@@ -1,0 +1,10 @@
+{
+	"id": "rexidian",
+	"name": "Rexidian Recipe Assistant",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A conversational interface for recipe management and cooking assistance in Obsidian.",
+	"author": "hoopsomuah",
+	"authorUrl": "https://github.com/hoopsomuah",
+	"isDesktopOnly": false
+}

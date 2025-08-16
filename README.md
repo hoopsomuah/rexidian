@@ -1,6 +1,6 @@
 # Rexidian Recipe Assistant
 
-A conversational interface for recipe management and cooking assistance in Obsidian, inspired by the caret plugin but focused on recipe tools and cooking workflows.
+A conversational interface for recipe management and cooking assistance in Obsidian, inspired by the caret plugin but focused on [recipe tools](https://github.com/hoopsomuah/recipe-tool) and cooking workflows.
 
 ## Features
 
